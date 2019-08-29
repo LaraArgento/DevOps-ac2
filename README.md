@@ -4,10 +4,10 @@ Lara Angelini Argento
 1901118
 
 
-###Clone:
+###Clone: \n
 cd Documents
 git clone [link]
-cd DevOps-ac2 (nome do repositório)
+cd DevOps-ac2 (nome do repositÃ³rio)
 git status
 
 ###Add:
